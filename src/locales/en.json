@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Backflip Phonk Escape Wiki",
+    "shortName": "Backflip Phonk Escape",
+    "tagline": "Complete Guides, Codes, Speed & Multipliers",
+    "description": "Backflip Phonk Escape Wiki with codes, speed guides, multipliers, escape tips, updates, gameplay mechanics, and everything Roblox players need.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Backflip Phonk Escape Wiki - Codes, Speed & Guide",
+      "description": "Backflip Phonk Escape Wiki with codes, speed guides, multipliers, escape tips, updates, gameplay mechanics, and everything Roblox players need."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Phonk Incremental Escape Simulator",
+      "title": "Backflip Phonk Escape Wiki",
+      "description": "Flip, build speed, unlock powerful multipliers, and escape through a lava-filled aura world while competing to become the fastest player.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "6.2M+ Total Visits",
+        "11.7K+ Players Online",
+        "Speed Guides & Multipliers",
+        "Escape Routes & Codes"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Speed Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Official Gameplay"
     },
     "updates": {
       "title": "Latest Updates",
@@ -180,7 +180,7 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
+      "title": "Explore Backflip Phonk Escape Wiki",
       "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
       "modules": [
         {
@@ -342,15 +342,15 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Escape in Backflip Phonk Escape?",
+      "description": "From building your first speed stacks to escaping through lava obstacles and unlocking top multipliers, our wiki has you covered.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
+      "title": "Bosses — Complete Guide & Walkthrough | Backflip Phonk Escape Wiki",
       "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
     },
     "overviewTitle": "Bosses Overview",
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Backflip Phonk Escape Wiki",
+    "about": "Backflip Phonk Escape Wiki is an independent fan-built guide hub covering speed strategies, escape routes, multipliers, codes, and essential gameplay mechanics for Roblox players.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Backflip Phonk Escape Wiki. Not affiliated with PLS ALGO I NEED THIS or Roblox.",
+    "description": "Roblox incremental escape simulator. Flip, build speed, unlock multipliers, and conquer lava obbies.",
+    "playGame": "Play on Roblox",
+    "officialDiscord": "Roblox Community Discord",
+    "officialYoutube": "Roblox Official YouTube",
+    "vvBuilder": "Speed Calculator",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Speed Guide",
+    "bossGuides": "Escape Guide",
+    "buildGuide": "Multipliers Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

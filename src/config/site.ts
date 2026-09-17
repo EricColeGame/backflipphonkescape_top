@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Codes, Speed & Multipliers",
   description: "Backflip Phonk Escape Wiki with codes, speed guides, multipliers, escape tips, updates, gameplay mechanics, and everything Roblox players need.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://backflipphonkescape.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://backflipphonkescape.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@backflipphonkescape.top",
   gameUrl: "https://www.roblox.com/games/130081301541616/1-Backflip-Phonk-Escape",
   heroVideoId: "cImnqjEG2c0", // Roblox Backflip Phonk Escape gameplay video
   social: {
