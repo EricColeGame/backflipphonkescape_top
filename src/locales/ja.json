@@ -1,1 +1,470 @@
-{}
+{
+  "site": {
+    "name": "backflipphonkescape Wiki",
+    "shortName": "Backflip Phonk Escape",
+    "tagline": "完全ガイド、最新コード、スピード＆倍率まとめ",
+    "description": "Backflip Phonk Escape Wiki では、コード、スピードガイド、倍率システム、脱出のコツ、最新アップデート、ゲームシステムなど、Robloxプレイヤーに必要な全情報を網羅しています。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって作られています。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "progression": "進行・育成",
+    "controls": "操作方法",
+    "tips": "攻略のコツ",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Backflip Phonk Escape Wiki - 最新コード・スピード・攻略ガイド",
+      "description": "Backflip Phonk Escape Wiki では、コード、スピードガイド、倍率システム、脱出のコツ、最新アップデート、ゲームシステムなど、Robloxプレイヤーに必要な全情報を網羅しています。"
+    },
+    "hero": {
+      "eyebrow": "Phonk インクリメンタル脱出シミュレーター",
+      "title": "Backflip Phonk Escape Wiki",
+      "description": "バク転でスピードを爆発的に加速させ、強力な倍率をアンロック。マグマとオーラが渦巻くコースから脱出し、最速プレイヤーを目指して競い合いましょう。",
+      "stats": [
+        "総訪問数 620万+",
+        "オンラインプレイヤー 1.1万+",
+        "スピードガイド＆倍率",
+        "脱出ルート＆最新コード"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "スピード攻略",
+      "tertiaryCta": "最新コード",
+      "videoLabel": "公式ゲームプレイ"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Backflip Phonk Escape の旅をはじめよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "バク転でスピードを稼ぎ、障害物を避けて最初の脱出ステージをクリアする基本ループをマスターしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "スピードと倍率",
+          "description": "倍率ティアを強化して1回のバク転あたりのスピード獲得量を飛躍的に高め、マグマを軽快に飛び越えましょう。"
+        },
+        {
+          "number": "3",
+          "title": "脱出ルート攻略",
+          "description": "ノリの良いPhonk音楽に合わせたジャンプのタイミング、チェックポイント通過、コース攻略法を解説します。"
+        },
+        {
+          "number": "4",
+          "title": "転生と勝利ポイント",
+          "description": "集めた勝利ポイントを永続的なプレステージ倍率、レアなオーラトレイル、ランキング上位へと変換しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目の記事",
+      "quickLinks": [
+        "最速レベリング",
+        "スピード強化",
+        "オーラ効果一覧",
+        "全脱出コース攻略"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "初回プレイから基本操作、スピード育成、脱出の流れまで完全解説。",
+          "href": "/guide/backflip-phonk-escape-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "最新コードまとめ",
+          "description": "有効期限が切れる前に使える最新の引き換えコードと報酬一覧。",
+          "href": "/guide/backflip-phonk-escape-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "スピード＆メカニクス解説",
+          "description": "連続バク転による加速倍率の仕組みと効果的な慣性維持テクニック。",
+          "href": "/mechanics/backflip-phonk-escape-1"
+        },
+        {
+          "badge": "人気",
+          "title": "倍率強化システム",
+          "description": "スピード獲得量を指数関数的にブーストする倍率の重要性を詳しく解説。",
+          "href": "/mechanics/backflip-phonk-escape-backflip"
+        },
+        {
+          "badge": "新規",
+          "title": "脱出コース徹底攻略",
+          "description": "マグマ地帯や動く足場を安全かつ最速で突破するためのステップバイステップガイド。",
+          "href": "/guide/backflip-phonk-escape-walkthrough"
+        },
+        {
+          "badge": "人気",
+          "title": "転生・勝利ポイント活用法",
+          "description": "勝利ポイントを使って永続倍率を獲得し、最速プレイヤーへ登り詰める手順。",
+          "href": "/progression/backflip-phonk-escape-progression"
+        },
+        {
+          "badge": "人気",
+          "title": "ブーツ＆オーラトレイル",
+          "description": "移動速度上昇やジャンプ力アップなど、ステータスを強化する装備とエフェクト。",
+          "href": "/tips/backflip-phonk-escape-secrets"
+        },
+        {
+          "badge": "新規",
+          "title": "攻略の裏技・ショートカット",
+          "description": "知っておくと差がつくショートカットと高度なジャンプ操作のテクニック。",
+          "href": "/tips/backflip-phonk-escape-tricks"
+        },
+        {
+          "badge": "新規",
+          "title": "アップデートパッチノート",
+          "description": "新たに追加された脱出ステージ、バランス調整、最新機能の変更点まとめ。",
+          "href": "/guide/backflip-phonk-escape-tutorial"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Backflip Phonk Escape とは？",
+      "paragraphs": [
+        "Backflip Phonk Escape は、PLS ALGO I NEED THIS が開発したRobloxの高速インクリメンタル脱出シミュレーターです。プレイヤーは連続でバク転を行って爆発的なスピードを蓄積し、危険なマグマの穴を回避しながらネオン輝くPhonkパルクールコースを駆け抜け、ゴールを目指します。",
+        "最初のスピード倍率を育成している段階でも、空中浮遊足場での精密な身のこなしを磨く段階でも、あるいは希少なブーツや光るオーラトレイルを集める段階でも、当Wikiは分かりやすい攻略手順、メカニクス解説、進行戦略を完全サポートします。"
+      ],
+      "stats": [
+        {
+          "label": "開発者",
+          "value": "PLS ALGO I NEED THIS"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "インクリメンタル脱出シミュレーター"
+        },
+        {
+          "label": "総訪問数",
+          "value": "620万+"
+        },
+        {
+          "label": "オンライン人数",
+          "value": "1.1万+"
+        },
+        {
+          "label": "最高同時接続",
+          "value": "1.1万+"
+        },
+        {
+          "label": "リリース日",
+          "value": "2026年7月29日"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Backflip Phonk Escape Wiki を探索",
+      "description": "基本的な進行ガイド、スピード計算式、脱出コース攻略、加速テクニックなど、RobloxのBackflip Phonk Escapeを極めるための全情報を網羅。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "backflipphonkescape Beginner Guide",
+          "description": "基本移動、バク転加速、チェックポイントの仕組み、序盤の脱出基礎をマスター。",
+          "href": "/guide/backflip-phonk-escape-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "連続でバク転を行い、基本スピードと勢いを蓄積する"
+            },
+            {
+              "label": "2",
+              "detail": "初期ネオン足場を渡り、メイン脱出ルートへと進む"
+            },
+            {
+              "label": "3",
+              "detail": "マグマの危険地帯や狭い橋の上でジャンプのタイミングを合わせる"
+            },
+            {
+              "label": "4",
+              "detail": "ゴールラインを通過して最初の脱出勝利と報酬を獲得する"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "backflipphonkescape Speed Guide",
+          "description": "倍率の重ねがけ、慣性の維持、効率的なバク転サイクルでスピード獲得効率を最大化。",
+          "href": "/mechanics/backflip-phonk-escape-1",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "バク転コンボを途切れさせずに維持し、急激なスピード上昇を発動させる"
+            },
+            {
+              "label": "2",
+              "detail": "獲得した勝利ポイントを初期スポーン地点の倍率アップグレードに再投資する"
+            },
+            {
+              "label": "3",
+              "detail": "上位のブーツを装備してコース全体の基礎移動速度を向上させる"
+            },
+            {
+              "label": "4",
+              "detail": "ハイスピードとダッシュジャンプを組み合わせて広大なクレバスを一気に飛び越える"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "backflipphonkescape Codes",
+          "description": "最新プロモーションコード、開発者報酬の配布情報、ゲーム内での引き換え方法。",
+          "href": "/guide/backflip-phonk-escape-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "COMING-SOON",
+              "detail": "公式コード配布予定 — 無料スピードブースト＆倍率",
+              "badge": "有効"
+            },
+            {
+              "label": "STAY-TUNED",
+              "detail": "開発者記念報酬 — 限定オーラエフェクト",
+              "badge": "有効"
+            },
+            {
+              "label": "Tips",
+              "detail": "公式から発表され次第、ゲーム内でコードの引き換えが可能になります"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "backflipphonkescape Multipliers",
+          "description": "倍率アップグレードがゲーム全体のバク転ごとのスピード獲得量を劇的に増幅する仕組みを解説。",
+          "href": "/mechanics/backflip-phonk-escape-backflip",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "倍率",
+              "detail": "バク転成功1回ごとに獲得できるスピードを指数関数的に増幅"
+            },
+            {
+              "label": "重複",
+              "detail": "装備ボーナスとステージクリア倍率が相乗効果を発揮"
+            },
+            {
+              "label": "スケーリング",
+              "detail": "高ティアの倍率により長距離脱出ランの所要時間を大幅短縮"
+            },
+            {
+              "label": "効率重視",
+              "detail": "一時的なスピードよりも永続的な倍率強化を優先して育成"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "backflipphonkescape Escape Guide",
+          "description": "高難度マグマピット、超高速ジャンプ、動く障害物を突破するためのステップバイステップ攻略。",
+          "href": "/guide/backflip-phonk-escape-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "足場の間隔を把握し、マグマの上昇サイクルを見極める"
+            },
+            {
+              "label": "2",
+              "detail": "蓄積した最高速度を活用して高難度の2段ジャンプ障害を一気に越える"
+            },
+            {
+              "label": "3",
+              "detail": "直線コースでオーラブーストを発動し、崩れる床を駆け抜ける"
+            },
+            {
+              "label": "4",
+              "detail": "最終勝利ゲートに触れて脱出を完了し、次のステージを解放する"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "backflipphonkescape Rebirth and Wins",
+          "description": "脱出勝利数と転生プレステージを活用して永続的なパワーアップと上位ランキングを獲得。",
+          "href": "/progression/backflip-phonk-escape-progression",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "最大転生倍率 — 最高峰のスピード倍率と限定ヘイロー効果"
+            },
+            {
+              "label": "A",
+              "detail": "上級プレステージ — 高い勝利数ボーナスと最高速度アップグレード"
+            },
+            {
+              "label": "B",
+              "detail": "中級転生 — 安定した倍率向上によるスムーズな育成進行"
+            },
+            {
+              "label": "C",
+              "detail": "スターターランク — 序盤の勢いをつける最初の勝利数変換"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "backflipphonkescape Boots and Trails",
+          "description": "高ティアブーツ、輝くパーティクルトレイル、Phonkオーラエフェクトを集めてカスタマイズ＆強化。",
+          "href": "/tips/backflip-phonk-escape-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ブーツ",
+              "detail": "移動速度とジャンプ力を恒久的に高めるパッシブ効果"
+            },
+            {
+              "label": "トレイル",
+              "detail": "高速疾走時に背後に鮮やかなネオンの軌跡を残すエフェクト"
+            },
+            {
+              "label": "オーラ",
+              "detail": "キャラクターを包み込むPhonkスタイルの発光エネルギーフィールド"
+            },
+            {
+              "label": "カスタム",
+              "detail": "装備ステータスを維持したまま好みの見た目へ自由にコーディネート"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "backflipphonkescape Updates",
+          "description": "最新パッチノート、新設コース、バランス調整、利便性向上の変更点を随時更新。",
+          "href": "/guide/backflip-phonk-escape-tutorial",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "大型ステージ追加 — 新しい脱出コースと高難度マグマトラップ"
+            },
+            {
+              "label": "A",
+              "detail": "倍率＆バランス調整 — スピード獲得曲線と報酬レートの最適化"
+            },
+            {
+              "label": "B",
+              "detail": "外観＆トレイル追加 — 鮮烈なネオンオーラや新作ランナーブーツ"
+            },
+            {
+              "label": "C",
+              "detail": "バグ修正＆最適化 — 足場の判定改善とネットワーク同期の安定化"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "Backflip Phonk Escape のゲームシステム、スピード育成、コード、脱出戦略に関するよくある質問にお答えします。",
+      "items": [
+        {
+          "question": "Backflip Phonk Escape とは何ですか？遊び方は？",
+          "answer": "Backflip Phonk Escape は、PLS ALGO I NEED THIS が手掛けるRobloxの高速インクリメンタル脱出シミュレーターです。バク転でスピードをため、マグマや障害物を回避しながらネオン調のコースを脱出して勝利を重ねていきます。"
+        },
+        {
+          "question": "Backflip Phonk Escape で効率よくスピードを上げるには？",
+          "answer": "連続してバク転を繰り出してコンボを維持し、集めた勝利ポイントで倍率アップグレードを優先的に行いましょう。上位ブーツやオーラを装備することでもスピード獲得効率が向上します。"
+        },
+        {
+          "question": "Backflip Phonk Escape に有効なコードはありますか？",
+          "answer": "現在、開発者から公開されている有効な引き換えコードはありません。コードが発表され次第このWikiですぐに更新しますので、ぜひブックマークしてご確認ください。"
+        },
+        {
+          "question": "転生と勝利ポイントの仕組みはどうなっていますか？",
+          "answer": "脱出コースを完走すると勝利ポイントが手に入り、倍率の強化や転生に使用できます。転生すると一時的なスピードはリセットされますが、永続的な倍率ボーナスを獲得でき、さらなる超ハイスピードに到達できます。"
+        },
+        {
+          "question": "ブーツやオーラトレイルとは何ですか？",
+          "answer": "ブーツやオーラトレイルは、Backflip Phonk Escape 内でスピード上昇やジャンプ力強化といったステータス恩恵を与えるとともに、鮮やかなネオンの軌跡で個性を演出できる装備アイテムです。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Backflip Phonk Escape で最速脱出を目指そう",
+      "description": "最初のスピード蓄積からマグマトラップの突破、最高倍率の解放まで、当Wikiが完全サポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "最新コード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。更新をお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "Backflip Phonk Escape Wiki",
+    "about": "Backflip Phonk Escape Wiki は、Robloxプレイヤーのためにスピード攻略、脱出ルート、倍率システム、最新コード、基本メカニクスを詳しく解説する非公式ファン攻略サイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Backflip Phonk Escape Wiki. PLS ALGO I NEED THIS および Roblox とは提携していません。",
+    "description": "Robloxインクリメンタル脱出シミュレーター。バク転で加速し、倍率を解放してマグマObbyを制覇しましょう。",
+    "playGame": "Robloxでプレイ",
+    "officialDiscord": "RobloxコミュニティDiscord",
+    "officialYoutube": "Roblox公式YouTube",
+    "vvBuilder": "スピード計算ツール",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "スピードガイド",
+    "bossGuides": "脱出ガイド",
+    "buildGuide": "倍率ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "backflipphonkescape 攻略＆ウォークスルー",
+    "overviewDescription": "初心者向けガイド、詳細な攻略手順、ステップバイステップのObby解説でbackflipphonkescapeを完全マスター。"
+  },
+  "mechanics": {
+    "overviewTitle": "backflipphonkescape ゲームメカニクス",
+    "overviewDescription": "+1バク転システム、挙動物理、Phonkエスケープテクニックなどの中核メカニズムを解説。"
+  },
+  "progression": {
+    "overviewTitle": "backflipphonkescape 進行＆チャプター",
+    "overviewDescription": "backflipphonkescape における全チャプター、マイルストーン、チャレンジレベルの進行システムを網羅。"
+  },
+  "controls": {
+    "overviewTitle": "backflipphonkescape 操作方法＆移動",
+    "overviewDescription": "スムーズなジャンプ、正確な回転、精密なバク転のためのキーボード、ゲームパッド、タッチ操作をマスター。"
+  },
+  "tips": {
+    "overviewTitle": "backflipphonkescape 攻略のコツ＆戦略",
+    "overviewDescription": "難関Obbyを制覇し、過酷なトラップを生き残るための上級テクニックと隠された秘訣を紹介。"
+  },
+  "community": {
+    "overviewTitle": "backflipphonkescape コミュニティ＆動画",
+    "overviewDescription": "backflipphonkescape プレイヤーによるコミュニティの議論、Redditの有益なアドバイス、プレイハイライトを探索。"
+  }
+}

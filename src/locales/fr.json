@@ -1,1 +1,470 @@
-{}
+{
+  "site": {
+    "name": "backflipphonkescape Wiki",
+    "shortName": "Backflip Phonk Escape",
+    "tagline": "Guides complets, codes, vitesse et multiplicateurs",
+    "description": "Wiki Backflip Phonk Escape avec codes, guides de vitesse, multiplicateurs, astuces d'évasion, mises à jour, mécaniques de jeu et tout ce dont les joueurs Roblox ont besoin.",
+    "legalNotice": "Wiki non officiel créé par des fans. Fait par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mécaniques",
+    "progression": "Progression",
+    "controls": "Contrôles",
+    "tips": "Astuces",
+    "community": "Communauté"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Backflip Phonk Escape - Codes, Vitesse et Guides",
+      "description": "Wiki Backflip Phonk Escape avec codes, guides de vitesse, multiplicateurs, astuces d'évasion, mises à jour, mécaniques de jeu et tout ce dont les joueurs Roblox ont besoin."
+    },
+    "hero": {
+      "eyebrow": "Simulateur d'Évasion Incrémental Phonk",
+      "title": "Wiki Backflip Phonk Escape",
+      "description": "Enchaînez les backflips, accumulez de la vitesse, débloquez de puissants multiplicateurs et échappez-vous à travers un monde d'auras et de lave tout en rivalisant pour devenir le joueur le plus rapide.",
+      "stats": [
+        "6,2M+ Visites Totales",
+        "11,7K+ Joueurs en Ligne",
+        "Guides de Vitesse & Multiplicateurs",
+        "Itinéraires d'Évasion & Codes"
+      ],
+      "primaryCta": "Guide du Débutant",
+      "secondaryCta": "Guide de Vitesse",
+      "tertiaryCta": "Codes Actifs",
+      "videoLabel": "Gameplay Officiel"
+    },
+    "updates": {
+      "title": "Dernières Mises à Jour",
+      "browse": "Parcourir Tous les Guides",
+      "viewAll": "Voir Tout"
+    },
+    "start": {
+      "eyebrow": "Commencer Ici",
+      "title": "Votre Aventure dans Backflip Phonk Escape",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du Débutant",
+          "description": "Maîtrisez la boucle principale : effectuez des backflips, accumulez des points de vitesse et franchissez la première étape d'évasion."
+        },
+        {
+          "number": "2",
+          "title": "Vitesse et Multiplicateurs",
+          "description": "Débloquez des paliers de multiplicateurs puissants pour accélérer considérablement vos gains de vitesse par saut et distancer les pièges de lave."
+        },
+        {
+          "number": "3",
+          "title": "Guide des Itinéraires d'Évasion",
+          "description": "Apprenez le timing parfait des sauts, le passage des points de contrôle et l'évitement des obstacles sur les parcours phonk rythmés."
+        },
+        {
+          "number": "4",
+          "title": "Renaissance & Victoires",
+          "description": "Convertissez vos victoires d'évasion accumulées en multiplicateurs de prestige permanents, traînées d'auras rares et classements élevés."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages Populaires",
+      "title": "Tendances Actuelles",
+      "quickLinks": [
+        "Progression Rapide",
+        "Entraînement de Vitesse",
+        "Effets d'Aura",
+        "Tous les Guides d'Évasion"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du Débutant",
+          "description": "Tout ce dont vous avez besoin, de votre première connexion à la maîtrise des bases de mouvement et de progression.",
+          "href": "/guide/backflip-phonk-escape-beginner-guide"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Codes Actifs",
+          "description": "Tous les codes valides et leurs récompenses pour Backflip Phonk Escape avant expiration.",
+          "href": "/guide/backflip-phonk-escape-guide"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Guide de Vitesse & Mécaniques",
+          "description": "Optimisez votre accumulation de vitesse et vos chaînes de backflips pour franchir les obstacles.",
+          "href": "/mechanics/backflip-phonk-escape-1"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Système de Multiplicateurs",
+          "description": "Comprenez le fonctionnement des multiplicateurs exponentiels pour accélérer chaque saut.",
+          "href": "/mechanics/backflip-phonk-escape-backflip"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Guide d'Évasion & Obby",
+          "description": "Stratégies détaillées pour traverser les gouffres de lave et surmonter les parcours d'obstacles phonk.",
+          "href": "/guide/backflip-phonk-escape-walkthrough"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Renaissances et Victoires",
+          "description": "Comment convertir vos victoires d'évasion en multiplicateurs permanents et monter dans le classement.",
+          "href": "/progression/backflip-phonk-escape-progression"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Bottes et Traînées d'Aura",
+          "description": "Découvrez les bonus de vitesse et les effets visuels néon des bottes et traînées cosmiques.",
+          "href": "/tips/backflip-phonk-escape-secrets"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Astuces & Secrets de Parcours",
+          "description": "Raccourcis cachés et techniques avancées de backflip pour gagner du temps sur chaque niveau.",
+          "href": "/tips/backflip-phonk-escape-tricks"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Notes de Mise à Jour",
+          "description": "Découvrez les nouveaux parcours d'évasion, ajustements d'équilibrage et fonctionnalités récentes.",
+          "href": "/guide/backflip-phonk-escape-tutorial"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Backflip Phonk Escape ?",
+      "paragraphs": [
+        "Backflip Phonk Escape est un simulateur d'évasion incrémental palpitant sur Roblox développé par PLS ALGO I NEED THIS. Les joueurs effectuent continuellement des backflips pour générer une vitesse fulgurante, éviter les fosses de lave mortelles et naviguer à travers des pistes de parkour néon au rythme du phonk pour franchir la ligne d'arrivée.",
+        "Que vous développiez vos premiers multiplicateurs de vitesse, perfectionniez vos sauts aériens au-dessus des plateformes flottantes ou collectiez des bottes rares et des auras lumineuses, notre wiki met à votre disposition des guides complets, des analyses mécaniques et des stratégies de progression efficaces."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "PLS ALGO I NEED THIS"
+        },
+        {
+          "label": "Plateforme",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulateur d'Évasion Incrémental"
+        },
+        {
+          "label": "Visites Totales",
+          "value": "6,2M+"
+        },
+        {
+          "label": "Joueurs en Ligne",
+          "value": "11,7K+"
+        },
+        {
+          "label": "Pic CCU",
+          "value": "11K+"
+        },
+        {
+          "label": "Date de Sortie",
+          "value": "29 juil. 2026"
+        }
+      ],
+      "cta": "Explorer Tous les Guides"
+    },
+    "explore": {
+      "title": "Explorer le Wiki Backflip Phonk Escape",
+      "description": "Maîtrisez chaque facette de Backflip Phonk Escape sur Roblox grâce à des guides de progression essentiels, des formules de vitesse, des parcours détaillés et des stratégies d'accélération.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "backflipphonkescape Beginner Guide",
+          "description": "Maîtrisez les déplacements de base, l'accélération par backflip, les mécanismes de checkpoint et les fondations de l'évasion.",
+          "href": "/guide/backflip-phonk-escape-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Effectuez des backflips continus pour accumuler de la vitesse et de l'élan de base"
+            },
+            {
+              "label": "2",
+              "detail": "Naviguez sur les premières plateformes néon vers l'itinéraire d'évasion principal"
+            },
+            {
+              "label": "3",
+              "detail": "Calculez précisément vos sauts au-dessus de la lave et des ponts étroits"
+            },
+            {
+              "label": "4",
+              "detail": "Franchissez la ligne d'arrivée pour remporter votre première victoire d'évasion"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "backflipphonkescape Speed Guide",
+          "description": "Optimisez votre taux de gain de vitesse avec le cumul de multiplicateurs, la conservation d'élan et des cycles de sauts fluides.",
+          "href": "/mechanics/backflip-phonk-escape-1",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Maintenez des séries ininterrompues de backflips pour déclencher une accumulation rapide de vitesse"
+            },
+            {
+              "label": "2",
+              "detail": "Réinvestissez vos premières victoires dans des multiplicateurs de vitesse au point de départ"
+            },
+            {
+              "label": "3",
+              "detail": "Équipez des bottes améliorées pour accroître votre vitesse de base sur les pistes"
+            },
+            {
+              "label": "4",
+              "detail": "Associez haute vitesse et sauts d'élan pour franchir aisément les gouffres imposants"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "backflipphonkescape Codes",
+          "description": "Restez informé des derniers codes promotionnels, des récompenses des développeurs et de la méthode d'activation.",
+          "href": "/guide/backflip-phonk-escape-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "COMING-SOON",
+              "detail": "Code Officiel à Venir — Bonus de Vitesse et Multiplicateur Gratuit",
+              "badge": "Actif"
+            },
+            {
+              "label": "STAY-TUNED",
+              "detail": "Récompense de Palier Communautaire — Effet d'Aura Exclusif",
+              "badge": "Actif"
+            },
+            {
+              "label": "Astuce",
+              "detail": "Les codes seront activables en jeu dès leur annonce officielle par les développeurs"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "backflipphonkescape Multipliers",
+          "description": "Découvrez comment la progression des multiplicateurs démultiplie l'accroissement de votre vitesse par saut à chaque étape.",
+          "href": "/mechanics/backflip-phonk-escape-backflip",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Multiplicateur",
+              "detail": "Multiplie de façon exponentielle la vitesse obtenue à chaque backflip réussi"
+            },
+            {
+              "label": "Cumul",
+              "detail": "Associe les bonus d'équipement aux multiplicateurs de complétion de parcours"
+            },
+            {
+              "label": "Évolution",
+              "detail": "Les paliers de multiplicateurs supérieurs réduisent le temps nécessaire pour s'échapper"
+            },
+            {
+              "label": "Efficacité",
+              "detail": "Privilégiez les améliorations de multiplicateurs par rapport aux gains bruts temporaires"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "backflipphonkescape Escape Guide",
+          "description": "Guide pas à pas pour surmonter les fosses de lave exigeantes, les sauts à haute vitesse et les obstacles mobiles.",
+          "href": "/guide/backflip-phonk-escape-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Repérez l'espacement des plateformes et observez le rythme de montée de la lave"
+            },
+            {
+              "label": "2",
+              "detail": "Exploitez votre vitesse maximale pour franchir les sauts doubles les plus délicats"
+            },
+            {
+              "label": "3",
+              "detail": "Déclenchez vos bonus d'aura en ligne droite pour dépasser les sols qui s'effondrent"
+            },
+            {
+              "label": "4",
+              "detail": "Atteignez le portail de victoire final pour valider vos succès et débloquer les zones suivantes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "backflipphonkescape Rebirth and Wins",
+          "description": "Exploitez vos victoires d'évasion et vos paliers de renaissance pour débloquer des bonus permanents et briller au classement.",
+          "href": "/progression/backflip-phonk-escape-progression",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Multiplicateur Maximal de Renaissance — Échelle de vitesse ultime et halo exclusif"
+            },
+            {
+              "label": "A",
+              "detail": "Prestige Avancé — Bonus de victoires élevés et amélioration de vitesse de pointe"
+            },
+            {
+              "label": "B",
+              "detail": "Renaissance Intermédiaire — Boost de multiplicateur régulier pour accélérer la progression"
+            },
+            {
+              "label": "C",
+              "detail": "Rang Débutant — Première conversion de victoires pour lancer la dynamique de jeu"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "backflipphonkescape Boots and Trails",
+          "description": "Explorez et collectionnez des bottes de haut niveau, des traînées néon lumineuses et des effets d'aura phonk pour votre coureur.",
+          "href": "/tips/backflip-phonk-escape-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bottes",
+              "detail": "Offrent des bonus passifs de vitesse de déplacement et de hauteur de saut"
+            },
+            {
+              "label": "Traînées",
+              "detail": "Laissent de spectaculaires particules néon derrière vous lors de vos courses rapides"
+            },
+            {
+              "label": "Auras",
+              "detail": "Enveloppent votre personnage d'un champ d'énergie lumineux aux couleurs phonk"
+            },
+            {
+              "label": "Custom",
+              "detail": "Combinez librement cosmétiques visuels et statistiques d'équipement sans pénalité"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "backflipphonkescape Updates",
+          "description": "Suivez les dernières notes de mise à jour, les nouvelles pistes d'évasion ajoutées, l'équilibrage et les améliorations de confort.",
+          "href": "/guide/backflip-phonk-escape-tutorial",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Nouveaux Parcours Majeurs — Ajout de zones d'évasion inédites et mécaniques de lave accrues"
+            },
+            {
+              "label": "A",
+              "detail": "Multiplicateurs & Équilibrage — Ajustement des courbes de vitesse et des récompenses"
+            },
+            {
+              "label": "B",
+              "detail": "Cosmétiques & Traînées — Nouvelles auras néon vibrantes et bottes de course exclusives"
+            },
+            {
+              "label": "C",
+              "detail": "Correctifs & Optimisations — Meilleure physique de collision et fluidité accrue"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "description": "Réponses rapides aux questions courantes sur le gameplay, l'entraînement de vitesse, les codes et les stratégies de Backflip Phonk Escape.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Backflip Phonk Escape et comment y jouer ?",
+          "answer": "Backflip Phonk Escape est un simulateur d'évasion incrémental dynamique sur Roblox développé par PLS ALGO I NEED THIS. Les joueurs effectuent des backflips pour gagner de la vitesse, évitent la lave et franchissent des parcours néon pour s'échapper et remporter des victoires."
+        },
+        {
+          "question": "Comment augmenter sa vitesse plus vite dans Backflip Phonk Escape ?",
+          "answer": "Enchaînez les backflips en continu pour générer de l'élan et réinvestissez rapidement vos victoires dans des multiplicateurs. S'équiper de meilleures bottes et d'effets d'aura amplifie également votre vitesse globale dans Backflip Phonk Escape."
+        },
+        {
+          "question": "Existe-t-il des codes actifs pour Backflip Phonk Escape ?",
+          "answer": "Actuellement, aucun code promotionnel n'a encore été publié par les développeurs pour Backflip Phonk Escape. Ajoutez ce Wiki Backflip Phonk Escape à vos favoris : nous le mettons à jour dès la sortie des nouveaux codes."
+        },
+        {
+          "question": "Comment fonctionnent les renaissances et les victoires dans Backflip Phonk Escape ?",
+          "answer": "Terminer des parcours d'évasion vous rapporte des victoires, échangeables contre des multiplicateurs et des renaissances. La renaissance réinitialise votre vitesse temporaire contre un multiplicateur permanent, vous propulsant vers de nouveaux records dans Backflip Phonk Escape."
+        },
+        {
+          "question": "Que sont les bottes et les traînées d'aura dans Backflip Phonk Escape ?",
+          "answer": "Les bottes et les traînées d'aura sont des équipements cosmétiques et fonctionnels dans Backflip Phonk Escape, offrant des effets visuels néon éclatants et des bonus de vitesse de pointe sur les parcours d'évasion."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à vous échapper dans Backflip Phonk Escape ?",
+      "description": "De vos premières séries de vitesse jusqu'au franchissement des obstacles de lave et aux multiplicateurs ultimes, notre wiki vous accompagne.",
+      "primary": "Lire le Guide du Débutant",
+      "secondary": "Jouer sur Roblox"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Navigation Wiki",
+    "activeCodes": "Codes Actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Backflip Phonk Escape",
+    "about": "Le Wiki Backflip Phonk Escape est un portail indépendant créé par des fans couvrant les stratégies de vitesse, les parcours d'évasion, les multiplicateurs, les codes et les mécaniques de jeu pour les joueurs Roblox.",
+    "quickLinks": "Liens Rapides",
+    "guides": "Guides",
+    "legal": "Mentions Légales",
+    "copyright": "2026 Wiki Backflip Phonk Escape. Non affilié à PLS ALGO I NEED THIS ou Roblox.",
+    "description": "Simulateur d'évasion incrémental Roblox. Sautez, gagnez de la vitesse, débloquez des multiplicateurs et dominez les obbies de lave.",
+    "playGame": "Jouer sur Roblox",
+    "officialDiscord": "Discord Communautaire Roblox",
+    "officialYoutube": "YouTube Officiel Roblox",
+    "vvBuilder": "Calculateur de Vitesse",
+    "beginnerGuide": "Guide du Débutant",
+    "raceGuides": "Guide de Vitesse",
+    "bossGuides": "Guide d'Évasion",
+    "buildGuide": "Guide des Multiplicateurs",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d'Utilisation"
+  },
+  "guide": {
+    "overviewTitle": "Guides & Solutions backflipphonkescape",
+    "overviewDescription": "Maîtrisez backflipphonkescape avec des guides complets pour débutants, des cheminements détaillés et des tutoriels d'obby étape par étape."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de Jeu backflipphonkescape",
+    "overviewDescription": "Comprenez les mécaniques fondamentales incluant le système de backflip +1, la physique et les techniques d'évasion phonk."
+  },
+  "progression": {
+    "overviewTitle": "Progression & Chapitres backflipphonkescape",
+    "overviewDescription": "Analyse complète de la progression couvrant tous les chapitres, étapes, paliers et niveaux de défi dans backflipphonkescape."
+  },
+  "controls": {
+    "overviewTitle": "Contrôles & Déplacements backflipphonkescape",
+    "overviewDescription": "Maîtrisez les commandes clavier, manette et tactiles pour des sauts fluides, des rotations parfaites et des backflips précis."
+  },
+  "tips": {
+    "overviewTitle": "Astuces & Stratégies backflipphonkescape",
+    "overviewDescription": "Meilleures astuces, techniques avancées et stratégies secrètes pour survivre au chaos et conquérir chaque défi d'obby difficile."
+  },
+  "community": {
+    "overviewTitle": "Communauté & Médias backflipphonkescape",
+    "overviewDescription": "Découvrez les discussions communautaires, les conseils Reddit, les moments forts de gameplay et les partages des joueurs de backflipphonkescape."
+  }
+}

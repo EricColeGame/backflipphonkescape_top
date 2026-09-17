@@ -1,1 +1,470 @@
-{}
+{
+  "site": {
+    "name": "backflipphonkescape Wiki",
+    "shortName": "Backflip Phonk Escape",
+    "tagline": "Hướng dẫn đầy đủ, Mã Code, Tốc độ & Hệ số nhân",
+    "description": "Wiki Backflip Phonk Escape cung cấp mã code, hướng dẫn tốc độ, hệ số nhân, mẹo vượt ngục, cập nhật, cơ chế trò chơi và mọi thứ người chơi Roblox cần.",
+    "legalNotice": "Wiki dành cho người hâm mộ phi chính thức. Được làm bởi người chơi, dành cho người chơi."
+  },
+  "nav": {
+    "guide": "Hướng dẫn",
+    "mechanics": "Cơ chế",
+    "progression": "Tiến trình",
+    "controls": "Điều khiển",
+    "tips": "Mẹo chơi",
+    "community": "Cộng đồng"
+  },
+  "home": {
+    "meta": {
+      "title": "Backflip Phonk Escape Wiki - Mã Code, Tốc độ & Hướng dẫn",
+      "description": "Wiki Backflip Phonk Escape cung cấp mã code, hướng dẫn tốc độ, hệ số nhân, mẹo vượt ngục, cập nhật, cơ chế trò chơi và mọi thứ người chơi Roblox cần."
+    },
+    "hero": {
+      "eyebrow": "Mô phỏng Thoát hiểm Phonk Tích lũy",
+      "title": "Backflip Phonk Escape Wiki",
+      "description": "Lộn nhào, gia tăng tốc độ, mở khóa các hệ số nhân mạnh mẽ và vượt qua thế giới hào quang dung nham để cạnh tranh trở thành người chơi nhanh nhất.",
+      "stats": [
+        "6,2M+ Lượt truy cập",
+        "11,7K+ Người chơi trực tuyến",
+        "Hướng dẫn Tốc độ & Hệ số nhân",
+        "Lộ trình Thoát hiểm & Mã Code"
+      ],
+      "primaryCta": "Hướng dẫn Tân thủ",
+      "secondaryCta": "Hướng dẫn Tốc độ",
+      "tertiaryCta": "Mã Code Khả dụng",
+      "videoLabel": "Gameplay Chính thức"
+    },
+    "updates": {
+      "title": "Cập nhật Mới nhất",
+      "browse": "Duyệt Tất cả Hướng dẫn",
+      "viewAll": "Xem tất cả"
+    },
+    "start": {
+      "eyebrow": "Bắt đầu tại đây",
+      "title": "Hành trình Backflip Phonk Escape của bạn",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Hướng dẫn Tân thủ",
+          "description": "Nắm vững vòng lặp cốt lõi: thực hiện lộn nhào, tích lũy điểm tốc độ và vượt qua chặng thoát hiểm đầu tiên."
+        },
+        {
+          "number": "2",
+          "title": "Tốc độ & Hệ số nhân",
+          "description": "Mở khóa các bậc hệ số nhân mạnh mẽ để gia tăng vượt bậc lượng tốc độ nhận được sau mỗi cú nhảy và vượt qua dung nham."
+        },
+        {
+          "number": "3",
+          "title": "Hướng dẫn Tuyến đường Thoát hiểm",
+          "description": "Học cách căn thời gian nhảy chuẩn xác, đi qua các điểm kiểm tra và né tránh chướng ngại vật trên đường đua phonk sôi động."
+        },
+        {
+          "number": "4",
+          "title": "Trùng sinh & Chiến thắng",
+          "description": "Chuyển đổi số trận thắng tích lũy thành hệ số nhân vĩnh viễn, vệt hào quang hiếm và thứ hạng cao trên bảng xếp hạng."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Trang Phổ biến",
+      "title": "Đang Thịnh hành",
+      "quickLinks": [
+        "Tiến trình Nhanh",
+        "Luyện Tốc độ",
+        "Hiệu ứng Hào quang",
+        "Tất cả Hướng dẫn Vượt ngục"
+      ],
+      "cards": [
+        {
+          "badge": "Tân thủ",
+          "title": "Hướng dẫn Tân thủ",
+          "description": "Mọi thứ bạn cần từ lần đăng nhập đầu tiên đến việc thành thạo di chuyển cơ bản và tiến trình chơi.",
+          "href": "/guide/backflip-phonk-escape-beginner-guide"
+        },
+        {
+          "badge": "Đã cập nhật",
+          "title": "Mã Code Khả dụng",
+          "description": "Tất cả các mã đổi thưởng còn hoạt động kèm phần thưởng trước khi hết hạn.",
+          "href": "/guide/backflip-phonk-escape-guide"
+        },
+        {
+          "badge": "Đã cập nhật",
+          "title": "Hướng dẫn Tốc độ & Cơ chế",
+          "description": "Tối ưu hóa việc tăng tốc độ và duy trì chuỗi lộn nhào liên tục để vượt chướng ngại vật.",
+          "href": "/mechanics/backflip-phonk-escape-1"
+        },
+        {
+          "badge": "Phổ biến",
+          "title": "Hệ thống Hệ số nhân",
+          "description": "Tìm hiểu cách hệ số nhân giúp tăng tốc độ của bạn theo cấp số nhân trong từng cú nhảy.",
+          "href": "/mechanics/backflip-phonk-escape-backflip"
+        },
+        {
+          "badge": "Mới",
+          "title": "Hướng dẫn Vượt chướng ngại vật",
+          "description": "Chiến lược chi tiết để vượt qua các hố dung nham nguy hiểm và đường đua obby phonk phức tạp.",
+          "href": "/guide/backflip-phonk-escape-walkthrough"
+        },
+        {
+          "badge": "Phổ biến",
+          "title": "Trùng sinh và Chiến thắng",
+          "description": "Cách đổi chiến thắng lấy hệ số nhân vĩnh viễn và leo lên top người chơi dẫn đầu.",
+          "href": "/progression/backflip-phonk-escape-progression"
+        },
+        {
+          "badge": "Phổ biến",
+          "title": "Giày & Vệt Hào quang",
+          "description": "Khám phá trang bị giày tăng tốc và hiệu ứng hạt neon rực rỡ khi chạy tốc độ cao.",
+          "href": "/tips/backflip-phonk-escape-secrets"
+        },
+        {
+          "badge": "Mới",
+          "title": "Mẹo & Bí quyết Vượt ải",
+          "description": "Các lối tắt ẩn và kỹ thuật lộn nhào nâng cao giúp tiết kiệm tối đa thời gian trên mỗi chặng đường.",
+          "href": "/tips/backflip-phonk-escape-tricks"
+        },
+        {
+          "badge": "Mới",
+          "title": "Ghi chú Cập nhật",
+          "description": "Theo dõi các đường đua thoát hiểm mới ra mắt, tinh chỉnh cân bằng và cải thiện trải nghiệm chơi.",
+          "href": "/guide/backflip-phonk-escape-tutorial"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Backflip Phonk Escape là gì?",
+      "paragraphs": [
+        "Backflip Phonk Escape là trò chơi mô phỏng thoát hiểm tích lũy tốc độ cao trên Roblox do PLS ALGO I NEED THIS phát triển. Người chơi liên tục thực hiện các cú lộn nhào để tích lũy tốc độ bùng nổ, né tránh các hố dung nham nguy hiểm và vượt qua các đường đua parkour neon rực rỡ theo điệu nhạc phonk để về đích.",
+        "Dù bạn đang xây dựng những hệ số nhân tốc độ đầu tiên, hoàn thiện kỹ năng nhảy giữa các bệ nổi trên không hay thu thập những đôi giày hiếm và vệt hào quang phát sáng, wiki của chúng tôi luôn cung cấp đầy đủ hướng dẫn từng bước, giải thích cơ chế và chiến lược tiến trình hiệu quả."
+      ],
+      "stats": [
+        {
+          "label": "Nhà phát triển",
+          "value": "PLS ALGO I NEED THIS"
+        },
+        {
+          "label": "Nền tảng",
+          "value": "Roblox"
+        },
+        {
+          "label": "Thể loại",
+          "value": "Mô phỏng Thoát hiểm Tích lũy"
+        },
+        {
+          "label": "Tổng lượt truy cập",
+          "value": "6,2M+"
+        },
+        {
+          "label": "Người chơi trực tuyến",
+          "value": "11,7K+"
+        },
+        {
+          "label": "CCU cao nhất",
+          "value": "11K+"
+        },
+        {
+          "label": "Ngày phát hành",
+          "value": "29 thg 7, 2026"
+        }
+      ],
+      "cta": "Khám phá Tất cả Hướng dẫn"
+    },
+    "explore": {
+      "title": "Khám phá Wiki Backflip Phonk Escape",
+      "description": "Làm chủ mọi khía cạnh của Backflip Phonk Escape trên Roblox với các hướng dẫn tiến trình thiết yếu, công thức tốc độ, bản đồ vượt ải và chiến thuật tăng tốc.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "backflipphonkescape Beginner Guide",
+          "description": "Nắm vững di chuyển cơ bản, tăng tốc lộn nhào, cơ chế điểm kiểm tra và nền tảng vượt ải ban đầu.",
+          "href": "/guide/backflip-phonk-escape-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Thực hiện lộn nhào liên tục để tích lũy tốc độ và đà di chuyển cơ bản"
+            },
+            {
+              "label": "2",
+              "detail": "Di chuyển qua các bệ neon khởi đầu hướng tới tuyến đường thoát hiểm chính"
+            },
+            {
+              "label": "3",
+              "detail": "Căn thời gian nhảy cẩn thận qua các bẫy dung nham và cầu hẹp"
+            },
+            {
+              "label": "4",
+              "detail": "Băng qua vạch đích để ghi nhận chiến thắng thoát hiểm đầu tiên cùng phần thưởng"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "backflipphonkescape Speed Guide",
+          "description": "Tối ưu hóa tỷ lệ tăng tốc độ bằng cách cộng dồn hệ số nhân, duy trì đà quán tính và các chu kỳ lộn nhào nhịp nhàng.",
+          "href": "/mechanics/backflip-phonk-escape-1",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Duy trì chuỗi lộn nhào không ngắt quãng để kích hoạt tích lũy tốc độ cực nhanh"
+            },
+            {
+              "label": "2",
+              "detail": "Tái đầu tư các trận thắng ban đầu vào nâng cấp hệ số nhân tốc độ tại điểm xuất phát"
+            },
+            {
+              "label": "3",
+              "detail": "Trang bị giày nâng cấp để tăng vận tốc di chuyển cơ bản trên đường chạy"
+            },
+            {
+              "label": "4",
+              "detail": "Kết hợp tốc độ cao với các cú nhảy đà để dễ dàng vượt qua các vực sâu hiểm trở"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "backflipphonkescape Codes",
+          "description": "Cập nhật các mã khuyến mãi mới nhất, đợt tặng thưởng của nhà phát triển và cách nhập mã code.",
+          "href": "/guide/backflip-phonk-escape-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "COMING-SOON",
+              "detail": "Mã Code Chính thức Sắp ra mắt — Tăng tốc & Hệ số nhân miễn phí",
+              "badge": "Khả dụng"
+            },
+            {
+              "label": "STAY-TUNED",
+              "detail": "Phần thưởng Mốc Nhà phát triển — Hiệu ứng Hào quang Độc quyền",
+              "badge": "Khả dụng"
+            },
+            {
+              "label": "Mẹo",
+              "detail": "Mã code sẽ có thể đổi trong game ngay khi được nhà phát triển công bố"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "backflipphonkescape Multipliers",
+          "description": "Hiểu cách mở rộng hệ số nhân giúp khuếch đại vượt trội lượng tốc độ tăng thêm sau mỗi cú lộn nhào.",
+          "href": "/mechanics/backflip-phonk-escape-backflip",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hệ số",
+              "detail": "Nhân lượng tốc độ nhận được sau mỗi cú lộn nhào thành công theo cấp số nhân"
+            },
+            {
+              "label": "Cộng dồn",
+              "detail": "Kết hợp phần thưởng từ trang bị với hệ số nhân khi hoàn thành chặng đua"
+            },
+            {
+              "label": "Quy mô",
+              "detail": "Các bậc hệ số nhân cao hơn giúp giảm đáng kể thời gian cày cuốc để thoát hiểm"
+            },
+            {
+              "label": "Hiệu quả",
+              "detail": "Ưu tiên nâng cấp hệ số nhân hơn là các chỉ số tốc độ tạm thời để phát triển bền vững"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "backflipphonkescape Escape Guide",
+          "description": "Hướng dẫn chi tiết từng bước để chinh phục các hố dung nham thử thách, các cú nhảy tốc độ cao và bẫy di động.",
+          "href": "/guide/backflip-phonk-escape-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Quan sát khoảng cách giữa các bệ và nhận biết chu kỳ dâng trào của dung nham"
+            },
+            {
+              "label": "2",
+              "detail": "Sử dụng tốc độ tối đa tích lũy được để phóng qua các chướng ngại vật nhảy kép khó khăn"
+            },
+            {
+              "label": "3",
+              "detail": "Kích hoạt tăng tốc hào quang trên đường thẳng để vượt qua các đoạn sàn sụt lún"
+            },
+            {
+              "label": "4",
+              "detail": "Chạm vào cổng chiến thắng cuối cùng để ghi nhận thành tích và mở khóa chặng tiếp theo"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "backflipphonkescape Rebirth and Wins",
+          "description": "Tận dụng chiến thắng thoát hiểm và các bậc trùng sinh để mở khóa sức mạnh vĩnh viễn và xếp hạng cao.",
+          "href": "/progression/backflip-phonk-escape-progression",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hệ số Trùng sinh Tối đa — Tốc độ đỉnh cao & vầng hào quang độc quyền"
+            },
+            {
+              "label": "A",
+              "detail": "Tiền tài Nâng cao — Thưởng chiến thắng lớn & tăng tốc vận tốc chạy"
+            },
+            {
+              "label": "B",
+              "detail": "Trùng sinh Trung cấp — Tăng hệ số ổn định giúp tiến trình nhanh hơn"
+            },
+            {
+              "label": "C",
+              "detail": "Bậc Khởi đầu — Chuyển đổi chiến thắng ban đầu để tạo đà bứt phá"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "backflipphonkescape Boots and Trails",
+          "description": "Khám phá và sưu tập giày cao cấp, vệt hạt neon phát sáng và hiệu ứng hào quang phonk để tùy biến nhân vật.",
+          "href": "/tips/backflip-phonk-escape-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Giày",
+              "detail": "Cung cấp các hỗ trợ nội tại về tốc độ di chuyển và độ cao cú nhảy"
+            },
+            {
+              "label": "Vệt sáng",
+              "detail": "Để lại những dải hạt neon rực rỡ phía sau khi chạy ở tốc độ cao"
+            },
+            {
+              "label": "Hào quang",
+              "detail": "Bao bọc người chạy trong trường năng lượng phát sáng đậm chất phonk"
+            },
+            {
+              "label": "Tùy biến",
+              "detail": "Tự do phối đồ ngoại trang mà không làm mất đi các chỉ số trang bị"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "backflipphonkescape Updates",
+          "description": "Theo dõi các bản vá mới nhất, các đường đua thoát hiểm mới thêm, điều chỉnh cân bằng và cải tiến tiện ích.",
+          "href": "/guide/backflip-phonk-escape-tutorial",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Bổ sung Chặng Đua Lớn — Các đường đua thoát hiểm mới cùng cơ chế dung nham khó hơn"
+            },
+            {
+              "label": "A",
+              "detail": "Hệ số & Cân bằng — Tinh chỉnh đường cong tăng tốc và tỷ lệ phần thưởng"
+            },
+            {
+              "label": "B",
+              "detail": "Ngoại trang & Vệt sáng — Thêm hiệu ứng hào quang neon mới và giày chạy độc đáo"
+            },
+            {
+              "label": "C",
+              "detail": "Sửa lỗi & Tối ưu — Cải thiện va chạm bệ nhảy và tính ổn định đồng bộ mạng"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi Thường gặp",
+      "description": "Giải đáp nhanh các câu hỏi phổ biến về lối chơi, luyện tập tốc độ, mã code và chiến lược thoát hiểm trong Backflip Phonk Escape.",
+      "items": [
+        {
+          "question": "Backflip Phonk Escape là gì và chơi như thế nào?",
+          "answer": "Backflip Phonk Escape là trò chơi mô phỏng thoát hiểm tích lũy nhịp độ nhanh trên Roblox do PLS ALGO I NEED THIS phát triển. Người chơi lộn nhào để tích tốc độ, né tránh dung nham và chướng ngại vật trên các đường đua neon để thoát hiểm và giành chiến thắng."
+        },
+        {
+          "question": "Làm thế nào để tăng tốc độ nhanh hơn trong Backflip Phonk Escape?",
+          "answer": "Thực hiện các cú lộn nhào liên tục để duy trì quán tính và đầu tư các trận thắng ban đầu vào nâng cấp hệ số nhân. Trang bị giày tốt hơn và hiệu ứng hào quang cũng giúp khuếch đại tốc độ nhận được trong Backflip Phonk Escape."
+        },
+        {
+          "question": "Có mã code nào đang hoạt động cho Backflip Phonk Escape không?",
+          "answer": "Hiện tại, chưa có mã code khuyến mại nào được nhà phát triển công bố cho Backflip Phonk Escape. Hãy đánh dấu trang Wiki Backflip Phonk Escape này và quay lại thường xuyên để nhận mã mới nhất ngay khi phát hành."
+        },
+        {
+          "question": "Trùng sinh và chiến thắng hoạt động như thế nào trong Backflip Phonk Escape?",
+          "answer": "Hoàn thành các đường đua thoát hiểm sẽ trao cho bạn chiến thắng, dùng để mua hệ số nhân và trùng sinh. Trùng sinh sẽ đặt lại tốc độ tạm thời để đổi lấy hệ số nhân vĩnh viễn, giúp bạn đạt tốc độ cao hơn nữa trong Backflip Phonk Escape."
+        },
+        {
+          "question": "Giày và vệt hào quang trong Backflip Phonk Escape là gì?",
+          "answer": "Giày và vệt hào quang là các trang bị ngoại trang và tăng chỉ số trong Backflip Phonk Escape, mang lại hiệu ứng neon bắt mắt, gia tăng vận tốc chạy khi bạn chinh phục các đường đua thoát hiểm."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Sẵn sàng Thoát hiểm trong Backflip Phonk Escape?",
+      "description": "Từ những bước tích lũy tốc độ đầu tiên đến việc vượt qua các chướng ngại vật dung nham và mở khóa hệ số nhân tối đa, wiki của chúng tôi luôn đồng hành cùng bạn.",
+      "primary": "Đọc Hướng dẫn Tân thủ",
+      "secondary": "Chơi trên Roblox"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Điều hướng Wiki",
+    "activeCodes": "Mã Code Khả dụng",
+    "updated": "Đã cập nhật",
+    "viewAllCodes": "Xem tất cả mã code",
+    "playOnRoblox": "Chơi trên Roblox",
+    "inThisSection": "Trong phần này",
+    "tableOfContents": "Mục lục",
+    "nextSteps": "Các bước tiếp theo",
+    "needHelp": "Cần trợ giúp?",
+    "relatedReading": "Bài đọc liên quan",
+    "relatedGuides": "Hướng dẫn liên quan",
+    "readMore": "Đọc thêm",
+    "officialMedia": "Kênh truyền thông chính thức",
+    "home": "Trang chủ",
+    "noGuidesAvailable": "Chưa có hướng dẫn nào. Hãy quay lại sau!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Backflip Phonk Escape",
+    "about": "Wiki Backflip Phonk Escape là cổng hướng dẫn độc lập do người hâm mộ xây dựng, tổng hợp chiến thuật tốc độ, lộ trình thoát hiểm, hệ số nhân, mã code và cơ chế chơi thiết yếu cho game thủ Roblox.",
+    "quickLinks": "Liên kết Nhanh",
+    "guides": "Hướng dẫn",
+    "legal": "Pháp lý",
+    "copyright": "2026 Wiki Backflip Phonk Escape. Không liên kết với PLS ALGO I NEED THIS hoặc Roblox.",
+    "description": "Mô phỏng thoát hiểm tích lũy Roblox. Lộn nhào, tích tốc độ, mở khóa hệ số nhân và chinh phục obby dung nham.",
+    "playGame": "Chơi trên Roblox",
+    "officialDiscord": "Discord Cộng đồng Roblox",
+    "officialYoutube": "YouTube Chính thức Roblox",
+    "vvBuilder": "Công cụ Tính Tốc độ",
+    "beginnerGuide": "Hướng dẫn Tân thủ",
+    "raceGuides": "Hướng dẫn Tốc độ",
+    "bossGuides": "Hướng dẫn Vượt ngục",
+    "buildGuide": "Hướng dẫn Hệ số nhân",
+    "privacyPolicy": "Chính sách Bảo mật",
+    "termsOfService": "Điều khoản Dịch vụ"
+  },
+  "guide": {
+    "overviewTitle": "Hướng dẫn & Lộ trình backflipphonkescape",
+    "overviewDescription": "Làm chủ backflipphonkescape với các hướng dẫn tân thủ chi tiết, lộ trình qua màn và các bài học obby từng bước."
+  },
+  "mechanics": {
+    "overviewTitle": "Cơ chế Trò chơi backflipphonkescape",
+    "overviewDescription": "Hiểu rõ các cơ chế cốt lõi bao gồm hệ thống lộn nhào +1, vật lý chuyển động và kỹ thuật thoát hiểm phonk."
+  },
+  "progression": {
+    "overviewTitle": "Tiến trình & Các Chương backflipphonkescape",
+    "overviewDescription": "Bảng phân tích toàn diện về tiến trình bao gồm tất cả các chương, mốc phát triển và cấp độ thử thách trong backflipphonkescape."
+  },
+  "controls": {
+    "overviewTitle": "Điều khiển & Di chuyển backflipphonkescape",
+    "overviewDescription": "Thành thạo các phím bấm bàn phím, tay cầm và điều khiển cảm ứng để nhảy mượt mà, xoay người và lộn nhào chuẩn xác."
+  },
+  "tips": {
+    "overviewTitle": "Mẹo chơi & Chiến lược backflipphonkescape",
+    "overviewDescription": "Các mẹo hàng đầu, kỹ thuật nâng cao và chiến lược bí mật để vượt qua hỗn loạn và chinh phục mọi thử thách obby khó nhằn."
+  },
+  "community": {
+    "overviewTitle": "Cộng đồng & Truyền thông backflipphonkescape",
+    "overviewDescription": "Khám phá các cuộc thảo luận cộng đồng, lời khuyên từ Reddit, khoảnh khắc nổi bật và chia sẻ từ người chơi backflipphonkescape."
+  }
+}
