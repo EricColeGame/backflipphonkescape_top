@@ -1,6 +1,6 @@
 {
   "site": {
-    "name": "Backflip Phonk Escape Wiki",
+    "name": "backflipphonkescape Wiki",
     "shortName": "Backflip Phonk Escape",
     "tagline": "Complete Guides, Codes, Speed & Multipliers",
     "description": "Backflip Phonk Escape Wiki with codes, speed guides, multipliers, escape tips, updates, gameplay mechanics, and everything Roblox players need.",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Backflip Phonk Escape Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the core loop of performing backflips, stacking speed points, and navigating the initial escape stage."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Speed & Multipliers",
+          "description": "Unlock powerful multiplier tiers to dramatically accelerate your speed gains per flip and outrun lava hazards."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Escape Route Guide",
+          "description": "Learn optimal jump timing, checkpoint routing, and obstacle evasion through the phonk-driven escape courses."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Rebirth & Wins",
+          "description": "Convert accumulated escape wins into permanent prestige multipliers, rare aura trails, and leaderboard rankings."
         }
       ]
     },
@@ -125,15 +125,15 @@
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Backflip Phonk Escape?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Backflip Phonk Escape is a high-octane incremental escape simulator on Roblox developed by PLS ALGO I NEED THIS. Players continuously perform backflips to build up explosive speed, dodge treacherous lava pits, and navigate through neon-soaked phonk parkour tracks to reach the finish line.",
+        "Whether you are grinding your first speed multipliers, mastering mid-air movement over floating platforms, or collecting rare boots and glowing aura trails, our wiki provides complete walkthroughs, mechanical breakdowns, and progression strategies."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "PLS ALGO I NEED THIS"
         },
         {
           "label": "Platform",
@@ -141,158 +141,226 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Incremental Escape Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "6.2M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Players Online",
+          "value": "11.7K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Peak CCU",
+          "value": "11K+"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release Date",
+          "value": "Jul 29, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Backflip Phonk Escape Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master every aspect of Backflip Phonk Escape on Roblox with essential progression guides, speed formulas, escape course walkthroughs, and boost strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "backflipphonkescape Beginner Guide",
+          "description": "Master core movement, backflip acceleration, checkpoint mechanics, and early stage escape fundamentals.",
+          "href": "/guide/backflip-phonk-escape-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Perform continuous backflips to accumulate baseline speed and momentum"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Navigate across the starting neon platforms toward the primary escape route"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Time jumps carefully over glowing lava hazards and narrow bridges"
+            },
+            {
+              "label": "4",
+              "detail": "Cross the finish threshold to bank your first escape win and rewards"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "backflipphonkescape Speed Guide",
+          "description": "Optimize your speed gain rate with multiplier stacking, momentum preservation, and efficient flipping cycles.",
+          "href": "/mechanics/backflip-phonk-escape-1",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Maintain unbroken backflip chains to trigger rapid speed accumulation"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Reinvest early wins into tier-one speed multipliers at spawn"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Equip upgraded boots to increase base speed velocity across tracks"
+            },
+            {
+              "label": "4",
+              "detail": "Combine high speed with sprint jumps to clear wide chasm gaps effortlessly"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "backflipphonkescape Codes",
+          "description": "Stay informed on the latest promotional codes, developer reward drops, and redemption methods.",
+          "href": "/guide/backflip-phonk-escape-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "COMING-SOON",
+              "detail": "Official Code Drop — Free Speed Boost & Multiplier",
+              "badge": "Active"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "STAY-TUNED",
+              "detail": "Developer Milestone Reward — Exclusive Aura Effect",
+              "badge": "Active"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Tip",
+              "detail": "Codes will be redeemable in-game once announced by developers"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "backflipphonkescape Multipliers",
+          "description": "Understand how multiplier scaling dramatically amplifies your speed growth per backflip throughout the game.",
+          "href": "/mechanics/backflip-phonk-escape-backflip",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Multiplier",
+              "detail": "Multiplies speed gained per backflip completion exponentially"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Stacking",
+              "detail": "Combines equipment bonuses with stage completion multipliers"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Scaling",
+              "detail": "Higher multiplier tiers reduce total grind time for long escape runs"
+            },
+            {
+              "label": "Efficiency",
+              "detail": "Prioritize multiplier upgrades over flat stats for sustained growth"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "backflipphonkescape Escape Guide",
+          "description": "Step-by-step walkthrough for conquering challenging lava pits, high-speed jumps, and moving obstacle hazards.",
+          "href": "/guide/backflip-phonk-escape-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Scout platform gaps and recognize rising lava cycle timing"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Use accumulated top speed to leap past difficult double-step obstacles"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Activate aura boosts on straightaways to outpace collapsing floors"
+            },
+            {
+              "label": "4",
+              "detail": "Touch the final victory gate to secure wins and unlock next stages"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "backflipphonkescape Rebirth and Wins",
+          "description": "Leverage escape wins and rebirth prestige tiers to unlock permanent power boosts and competitive rankings.",
+          "href": "/progression/backflip-phonk-escape-progression",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Max Rebirth Multiplier — Top-tier speed scale & exclusive halo"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Advanced Prestige — High win bonuses & speed velocity upgrades"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Intermediate Rebirth — Stable multiplier boost & faster progression"
+            },
+            {
+              "label": "C",
+              "detail": "Starter Rank — Initial win conversion for early-game momentum"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "backflipphonkescape Boots and Trails",
+          "description": "Browse and collect high-tier boots, glowing particle trails, and phonk aura effects to customize and buff your runner.",
+          "href": "/tips/backflip-phonk-escape-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Boots",
+              "detail": "Provides passive movement speed and jump height enhancements"
+            },
+            {
+              "label": "Trails",
+              "detail": "Leaves vibrant neon particle streaks behind high-speed runs"
+            },
+            {
+              "label": "Aura",
+              "detail": "Envelops your runner in glowing phonk-themed energy fields"
+            },
+            {
+              "label": "Custom",
+              "detail": "Mix and match visual cosmetics without losing equipment stats"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "backflipphonkescape Updates",
+          "description": "Track the latest patches, newly added escape tracks, balance adjustments, and quality-of-life updates.",
+          "href": "/guide/backflip-phonk-escape-tutorial",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Major Stage Additions — New escape courses and harder lava mechanics"
+            },
+            {
+              "label": "A",
+              "detail": "Multipliers & Balance — Refined speed curves and reward scaling"
+            },
+            {
+              "label": "B",
+              "detail": "Cosmetics & Trails — Fresh neon aura effects and runner boots"
+            },
+            {
+              "label": "C",
+              "detail": "Bug Fixes & Optimizations — Smoother platform collision and netcode"
             }
           ]
         }
@@ -300,27 +368,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to common questions about Backflip Phonk Escape gameplay, speed training, codes, and escape strategies.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Backflip Phonk Escape and how do you play?",
+          "answer": "Backflip Phonk Escape is a fast-paced Roblox incremental escape simulator created by PLS ALGO I NEED THIS. Players perform backflips to build up speed, dodge lava and obstacles along neon phonk courses, and race to escape and earn wins."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I increase speed faster in Backflip Phonk Escape?",
+          "answer": "Perform continuous backflips to build momentum and invest your early wins into multiplier upgrades. Equipping better boots and aura effects also amplifies your overall speed gain rate in Backflip Phonk Escape."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there active codes for Backflip Phonk Escape?",
+          "answer": "Currently, there are no active promo codes released by the developers for Backflip Phonk Escape. Bookmark this Backflip Phonk Escape Wiki and check back regularly as we update with working codes as soon as they drop."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do rebirths and wins work in Backflip Phonk Escape?",
+          "answer": "Completing escape courses awards wins, which you can spend on multipliers and rebirths. Rebirths reset your temporary speed in exchange for permanent multiplier boosts, helping you reach even higher speeds in Backflip Phonk Escape."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What are boots and aura trails in Backflip Phonk Escape?",
+          "answer": "Boots and aura trails are cosmetic and stat-enhancing equipment items in Backflip Phonk Escape that provide visual neon effects, speed velocity buffs, and prestige flare as you complete escape courses."
         }
       ]
     },
