@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Backflip Phonk Escape Wiki",
+  shortName: "Backflip Phonk Escape",
+  logoText: "BPE",
+  tagline: "Complete Guides, Codes, Speed & Multipliers",
+  description: "Backflip Phonk Escape Wiki with codes, speed guides, multipliers, escape tips, updates, gameplay mechanics, and everything Roblox players need.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://backflipphonkescape.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://backflipphonkescape.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/130081301541616/1-Backflip-Phonk-Escape",
+  heroVideoId: "cImnqjEG2c0", // Roblox Backflip Phonk Escape gameplay video
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
