@@ -15,7 +15,7 @@ export interface SiteConfig {
     tiktok?: string;
   };
   locales: readonly string[];
-  defaultLocale: string;
+  defaultLocale: "en";
 }
 
 export const siteConfig: SiteConfig = {
